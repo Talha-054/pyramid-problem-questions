@@ -10,9 +10,7 @@ while (x<rows_no){
     x++
 }
 
-
 let range = row.length
-
 
 x= 0
 while (x<rows_no){
@@ -20,5 +18,19 @@ while (x<rows_no){
     x++
     range -= 2
 }
+
+//  variable rows_no determine the output
+
+// output
+// * * * * * * * * * *
+// * * * * * * * * *
+// * * * * * * * *
+// * * * * * * *
+// * * * * * *
+// * * * * *
+// * * * *
+// * * *
+// * *
+// *
 
 

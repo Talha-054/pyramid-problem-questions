@@ -8,3 +8,17 @@ while (x<rows_no){
     console.log(row)
     x++
 }
+
+//  variable rows_no determine the output
+
+// output
+// *
+// **        
+// ***       
+// ****      
+// *****     
+// ******    
+// *******   
+// ********  
+// ********* 
+// **********
